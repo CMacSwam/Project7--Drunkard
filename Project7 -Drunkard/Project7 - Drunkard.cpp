@@ -1,3 +1,11 @@
+/*
+*Author: Chase McCluskey
+*Date: 10/17/2024
+*File: LabProblem7A.1
+*
+* Description: Finding the location of the drunkards after a certain amount of minutes, random locations each second. 
+*/
+
 #include <iostream>
 #include <ctime>
 #include <cstdlib>
